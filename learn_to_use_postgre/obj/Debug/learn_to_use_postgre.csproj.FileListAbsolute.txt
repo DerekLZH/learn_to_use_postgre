@@ -1,0 +1,11 @@
+c:\users\vmtdf\documents\visual studio 2013\Projects\learn_to_use_postgre\learn_to_use_postgre\bin\Debug\learn_to_use_postgre.exe.config
+C:\Users\VmtDF\Documents\Visual Studio 2013\Projects\learn_to_use_postgre\learn_to_use_postgre\bin\Debug\learn_to_use_postgre.exe
+C:\Users\VmtDF\Documents\Visual Studio 2013\Projects\learn_to_use_postgre\learn_to_use_postgre\bin\Debug\learn_to_use_postgre.pdb
+C:\Users\VmtDF\Documents\Visual Studio 2013\Projects\learn_to_use_postgre\learn_to_use_postgre\obj\Debug\learn_to_use_postgre.csprojResolveAssemblyReference.cache
+C:\Users\VmtDF\Documents\Visual Studio 2013\Projects\learn_to_use_postgre\learn_to_use_postgre\obj\Debug\learn_to_use_postgre.Form1.resources
+C:\Users\VmtDF\Documents\Visual Studio 2013\Projects\learn_to_use_postgre\learn_to_use_postgre\obj\Debug\learn_to_use_postgre.Properties.Resources.resources
+C:\Users\VmtDF\Documents\Visual Studio 2013\Projects\learn_to_use_postgre\learn_to_use_postgre\obj\Debug\learn_to_use_postgre.csproj.GenerateResource.Cache
+C:\Users\VmtDF\Documents\Visual Studio 2013\Projects\learn_to_use_postgre\learn_to_use_postgre\obj\Debug\learn_to_use_postgre.exe
+C:\Users\VmtDF\Documents\Visual Studio 2013\Projects\learn_to_use_postgre\learn_to_use_postgre\obj\Debug\learn_to_use_postgre.pdb
+C:\Users\VmtDF\Documents\Visual Studio 2013\Projects\learn_to_use_postgre\learn_to_use_postgre\bin\Debug\Mono.Security.dll
+C:\Users\VmtDF\Documents\Visual Studio 2013\Projects\learn_to_use_postgre\learn_to_use_postgre\bin\Debug\Npgsql.dll
