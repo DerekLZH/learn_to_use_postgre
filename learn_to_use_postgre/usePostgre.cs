@@ -14,7 +14,6 @@ namespace learn_to_use_postgre
 {
     class usePostgre
     {
-
         public static string str = "Server=127.0.0.1;Port=5432;User Id=postgres;Password=fosber55060;Database=postgres";
 
         public static string TestConnection()
